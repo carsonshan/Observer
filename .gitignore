@@ -2,7 +2,8 @@
 ## IntelliJ IDEA
 #################
 .idea/
-OOPLecture7.iml
+target/
+Observer.iml
 
 #################
 ## Eclipse
